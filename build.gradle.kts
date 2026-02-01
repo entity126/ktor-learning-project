@@ -14,7 +14,11 @@ application {
 }
 
 kotlin {
+<<<<<<< HEAD
     jvmToolchain(25)
+=======
+    jvmToolchain(21)
+>>>>>>> f303a17e077f7fd260f286655b5345cd662ba713
 }
 
 dependencies {
